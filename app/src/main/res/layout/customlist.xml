@@ -28,9 +28,8 @@
             android:layout_width="100dp"
             android:layout_height="40dp"
             android:layout_marginLeft="180dp"
-            android:background="@drawable/custom_stateofbutton"
             android:paddingTop="6dp"
-            android:src="@drawable/bookmark" />
+            android:src="@drawable/notbookkmark" />
 
 
     </LinearLayout>
